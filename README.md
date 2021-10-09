@@ -36,7 +36,7 @@ Uses a **Webhook** to update/add purchase information to database and handle the
 
 Make digital art cards and **upload your own art** on the profile page utilizing **responsive cards** that respond to changes in forms to accurately see what your art will look like on the front page, *email authentication required*
 
-Artwork gets **converted to low quality** for thumbnails inorder to prevent users from downloading the full resolution artwork without purchasing
+Artwork gets **converted to low quality** for thumbnails to prevent users from downloading the full resolution artwork without purchasing the artwork
 
 
 
