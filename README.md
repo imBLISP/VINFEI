@@ -6,7 +6,7 @@
 
 Available on heroku at https://vinfeii.herokuapp.com/
 
-**Elegant Ecommerce website catered towards people passionate about digital artworks and supporting artists**
+**Ecommerce website for people passionate about digital artworks and supporting artists**
 
 
 
